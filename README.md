@@ -2,11 +2,13 @@
 >基于php的看云下载器
 
 **描述：**
-通过php和wkhtmltopdf下载看云不能下载的文档
+通过php和wkhtmltopdf下载看云不能下载的文档  
+
 **说明：**
 - 需要下载wkhtmltopdf，下载地址https://wkhtmltopdf.org/
-- 需要配置php环境变量，需要用到curl扩展
-使用方法：
+- 需要配置php环境变量，需要用到curl扩展  
+
+**使用方法：**
 - 不需要登陆的情况
 1. 不需要登陆的情况，填写index.php文件中的第60行
 ``` php
